@@ -1,0 +1,5 @@
+# The core toolkit is pure Python (no dependencies).
+# Optional extras:
+biopython>=1.80   # cross-check results against Biopython
+matplotlib>=3.5   # charts (plot command)
+pytest>=7.0       # run the tests
